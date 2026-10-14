@@ -1,0 +1,1 @@
+import{C as e,S as t,w as n,x as r}from"./src-BBQ36KUV.js";import{t as i}from"./Final1Page-liQ0pBQh.js";var a=n(e(),1),o=n(t(),1),s=r();o.createRoot(document.getElementById(`root`)).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(i,{final5:!0,purchaseStartsWithPassengers:!0,passengerListDensity:`compact`,addPassengerControl:`plus`,fareSelectAdvances:!0})}));
